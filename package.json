@@ -11,9 +11,14 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/firebase": "^7.4.1",
+    "cookie-universal-nuxt": "^2.1.4",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "firebase": "^8.2.6",
+    "nuxt": "^2.14.12",
+    "save": "^2.4.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",

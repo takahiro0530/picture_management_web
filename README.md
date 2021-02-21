@@ -18,3 +18,8 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+# create .env file
+cp .env.template .env
+
